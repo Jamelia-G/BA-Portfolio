@@ -5,13 +5,10 @@ Welcome to my Data Analyst portfolio! Below are the highlights of some key proje
 ---
 * Python
    * [Facial recognition](https://github.com/Jamelia-G/Facial-Recognition)
-   * NM
 * R 
    * [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
-   *
 * Tableau
-   * 
-   *
+   * [Visualizing Airport Delays](https://github.com/Jamelia-G/Visualizing-Airport-Delays)
 
 ## Projects
 ---
