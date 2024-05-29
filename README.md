@@ -7,6 +7,7 @@ Welcome to my Data Analyst portfolio! Below are the highlights of some key proje
    * [Facial recognition](https://github.com/Jamelia-G/Facial-Recognition)
 * R 
    * [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
+   * [Optimizing Predictive Power](https://github.com/Jamelia-G/Optimizing-Predictive-Power)
 * Tableau
    * [Visualizing Airport Delays](https://github.com/Jamelia-G/Visualizing-Airport-Delays)
 
@@ -27,7 +28,7 @@ Uncertainty: 	Employee exits or Employee stays <br>
 Business Deployment: Target employees with employee benefits <br>
 Goal: $E[Profit|X,D] = P(Employee stays | X,D) * V(X,D)$
 
-**Skills:** Data Cleaning, Exploratory Data Analysis, Predictive Modelling, Supervised Learning
+**Skills:** Data Cleaning, Exploratory Data Analysis, Predictive Modelling, Supervised Learning, Classification
 
 **Technology:** R, Logistic Regression, Decision Trees, Random Forests, and Lasso Regression
 
@@ -56,3 +57,16 @@ This project uses Tableau and Tableau Prep to Extract and Load flight data for M
 **Skills:** Connecting to Data Source, Filtering and Extracting, Data Visualization, Basic Statistics, Designing interactive filters, parameters, and actions
 
 **Technology:** Tableau Prep, Tableau
+
+### Optimizing Predictive Power
+
+**Project:** [Optimizing Predictive Power](https://github.com/Jamelia-G/Optimizing-Predictive-Power)
+
+**Objective:** To forecast housing prices of houses in Barcelona
+
+**Description:** 
+This project uses regression techniques in R to forecast housing prices, then using a combination okf subject matter knowledge and statistical testing to optimize the model.
+
+**Skills:** Regression Analysis, Feature Engineering (interactions)  
+
+**Technology:** R (Regression Modelling)
