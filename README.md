@@ -4,20 +4,20 @@ Welcome to my Data Analyst portfolio! Below are the highlights of some key proje
 ## Table of Contents
 ---
 * Python
-   * BJ
+   * [Facial recognition](https://github.com/Jamelia-G/Facial-Recognition)
    * NM
 * R 
    * [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
    *
 * Tableau
-   *
+   * 
    *
 
 ## Projects
 ---
-### 1. Predicting Employee Attrition using R
+### Predicting Employee Attrition using R
 
-**Project:**
+**Project:** [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
 
 **Objective:** To predict employees likely to leave
 
@@ -34,9 +34,9 @@ Goal: $E[Profit|X,D] = P(Employee stays | X,D) * V(X,D)$
 
 **Technology:** R, Logistic Regression, Decision Trees, Random Forests, and Lasso Regression
 
-### 2. Face Recognition using Convolutional Neural Networks (CNN)
+### Face Recognition using Convolutional Neural Networks (CNN)
 
-**Project:**
+**Project:** [Facial recognition](https://github.com/Jamelia-G/Facial-Recognition)
 
 **Objective:** To recognize identities given an image
 
@@ -47,4 +47,13 @@ This project leverages facial embeddings, the VGG Face Model, and CNNs to accura
 
 **Technology:** PyTorch, Python (NumPy, Matplotlib, Sckit-Learn), Jupyter Notebook, Google Colab, Google Cloud Platform(GCP)
 
-### 3. Data Visualization of Flight Delays
+### Data Visualization of Flight Delays
+
+**Objective:** To conduct root cause analysis of delays at MCO airport.
+
+**Description:** 
+This project uses Tableau and Tableau Prep to Extract and Load flight data for MCO airport. Project leverages Line of Detail, Calculated Fields, Parameters and Projections to diagnose the driving cause of delays and convey it clearly to stakeholders.
+
+**Skills:** Connecting to Data Source, Filtering and Extracting, Data Visualization, Basic Statistics, Designing interactive filters, parameters, and actions
+
+**Technology:** Tableau Prep, Tableau
