@@ -1,11 +1,14 @@
 # Jamelia Gordon - Data Analyst Portfolio
 Welcome to my Data Analyst portfolio! Below are the highlights of some key projects showcasing my expertise in data analysis, machine learning, and data visualization.
 
-## About
----
-
 ## Table of Contents
 ---
+Python
+--* 
+--*
+R 
+--* [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
+--*
 
 ## Projects
 ---
