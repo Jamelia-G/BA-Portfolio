@@ -46,6 +46,8 @@ This project leverages facial embeddings, the VGG Face Model, and CNNs to accura
 
 ### Data Visualization of Flight Delays
 
+**Project:** [Visualizing Airport Delays](https://github.com/Jamelia-G/Visualizing-Airport-Delays)
+
 **Objective:** To conduct root cause analysis of delays at MCO airport.
 
 **Description:** 
