@@ -11,7 +11,7 @@ Welcome to my Data Analyst portfolio! Below are the highlights of some key proje
 ---
 ### 1. Predicting Employee Attrition using R
 
-**Code:**
+**Project:**
 
 **Objective:** To predict employees likely to leave
 
@@ -22,10 +22,23 @@ The project leverages supervised learning techniques, including logistic regress
 In principle, the project follows this framework: <br>
 Uncertainty: 	Employee exits or Employee stays <br>
 Business Deployment: Target employees with employee benefits <br>
-Goal: $'E[Profit|X,D] = P(Employee stays | X,D) * V(X,D)'$
+Goal: $E[Profit|X,D] = P(Employee stays | X,D) * V(X,D)$
 
 **Skills:** Data Cleaning, Exploratory Data Analysis, Predictive Modelling, Supervised Learning
 
 **Technology:** R, Logistic Regression, Decision Trees, Random Forests, and Lasso Regression
-###2. Face Recognition using Convolutional Neural Networks (CNN)
-4. Data Visualization of Flight Delays
+
+### 2. Face Recognition using Convolutional Neural Networks (CNN)
+
+**Project:**
+
+**Objective:** To recognize identities given an image
+
+**Description:** 
+This project leverages facial embeddings, the VGG Face Model, and CNNs to accurately identify facial embeddings and predict identities from a pool of 105 identities. The resulting "SoftMax classifier Model" was trained on the Pins Face Recognition Dataset from Kaggle, which comprised 17,534 faces across 105 identities. The VGG Face model was first used to extract facial embeddings, which were then passed through a neural network outfitted with ReLu activation, Batch Normalization, and regularization techniques. 
+
+**Skills:** Creating Metadata, Image Augmentation, Data Preprocessing, CNN model, hyperparameter tuning, Model Evaluation
+
+**Technology:** PyTorch, Python (NumPy, Matplotlib, Sckit-Learn), Jupyter Notebook, Google Colab, Google Cloud Platform(GCP)
+
+### 3. Data Visualization of Flight Delays
