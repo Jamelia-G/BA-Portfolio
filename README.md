@@ -3,12 +3,15 @@ Welcome to my Data Analyst portfolio! Below are the highlights of some key proje
 
 ## Table of Contents
 ---
-Python
---* 
---*
-R 
---* [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
---*
+* Python
+   * BJ
+   * NM
+* R 
+   * [Predicting Employee Attrition](https://github.com/Jamelia-G/Employee-Attrition)
+   *
+* Tableau
+   *
+   *
 
 ## Projects
 ---
